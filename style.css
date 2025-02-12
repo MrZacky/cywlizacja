@@ -1,0 +1,14 @@
+/* style.css */
+
+/* Ustawienie marginesu dla sekcji, aby scrollSpy działał poprawnie */
+section {
+  scroll-margin-top: 80px;
+}
+
+/* Stylizacja nagłówków sekcji */
+h2 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+/* Możesz dodać dodatkowe niestandardowe style tutaj */
